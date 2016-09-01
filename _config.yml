@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: http://mazhuang.org/jekyll-theme-solid
+url: http://pop925.net
 date_format: "ordinal"
 title: jekyll-theme-solid
 author: Zhuang Ma 
@@ -34,5 +34,5 @@ collections:
 # ---------------- #
 #      Comments    #
 # ---------------- #
-duoshuo_short_name: mazhuang
+duoshuo_short_name: enread
 changyan: false
