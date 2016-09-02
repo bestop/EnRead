@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Categories
+title: Tags
 description: 本博客所有文章分类列表。
-keywords: 分类
-permalink: /categories/
+keywords: 标签
+permalink: /tags/
 ---
 
 <div class='tag_cloud'>
-{% for cat in site.categories %} 
+{% for cat in site.tags %} 
 <a href="#{{ cat[0] }}" title="{{ cat[0] }}" rel="{{ cat[1].size }}">{{ cat[0] }}({{ cat[1].size }}) </a>
 {% endfor %}
 </div>
 
-{% for category in site.categories %}
+{% for category in site.tags %}
 <h3>{{ category | first }}</h3>
 <ul id="{{ category[0] }}">
 {% for post in category.last %}
