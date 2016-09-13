@@ -8,14 +8,14 @@ permalink: /links/
 
 <ul>
 <li><a href="http://www.pop925.net">英语文摘</a> 
-  <a href="http://www.douban.com/group/EnglishReader/" target=_blank>豆瓣小组</a>
-   <a href="http://english.cri.cn/easyfm/" title="EASY FM,we are the difference." target=_blank>轻松调频</a></li>
-      <li><a href="http://www.hjenglish.com/" title="" target=_blank>沪江英语</a>
- <a href="http://www.wwenglish.com/" title="" target=_blank>旺旺英语</a>
- <a href="http://www.putclub.com/" title="" target=_blank>普特英语</a></li>
-<li><a href="http://www.kekenet.com/" title="" target=_blank>可可英语</a>
- <a href="http://www.ebigear.com/" title="" target=_blank>爱思英语</a>
-    <a href="http://www.hjenglish.com/" title="" target=_blank>大耳英语</a></li>
+  <a href="http://www.douban.com/group/EnglishReader/">豆瓣小组</a>
+   <a href="http://english.cri.cn/easyfm/" title="EASY FM,we are the difference.">轻松调频</a></li>
+      <li><a href="http://www.hjenglish.com/" >沪江英语</a>
+ <a href="http://www.wwenglish.com/" >旺旺英语</a>
+ <a href="http://www.putclub.com/" >普特英语</a></li>
+<li><a href="http://www.kekenet.com/" >可可英语</a>
+ <a href="http://www.ebigear.com/" >爱思英语</a>
+    <a href="http://www.hjenglish.com/" >大耳英语</a></li>
     <li><a href="http://blog.sina.com.cn/kaifulee" title="学习，工作，成长" target=_blank>开复博客</a>
    <a href="http://www.freerice.com/index.php" title="背单词，捐大米" target=_blank>单词大米</a>
  <a href="http://mazhuang.org/" target=_blank>码志</a></li>
