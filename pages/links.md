@@ -7,7 +7,7 @@ permalink: /links/
 ---
 
 <ul>
-<li><a href="http://www.pop925.net">英语文摘</a> 
+<li><a href="http://pop925.net">英语文摘</a> 
   <a href="http://www.douban.com/group/EnglishReader/">豆瓣小组</a>
    <a href="http://english.cri.cn/easyfm/" title="EASY FM,we are the difference.">轻松调频</a></li>
       <li><a href="http://www.hjenglish.com/" >沪江英语</a>
@@ -16,10 +16,10 @@ permalink: /links/
 <li><a href="http://www.kekenet.com/" >可可英语</a>
  <a href="http://www.ebigear.com/" >爱思英语</a>
     <a href="http://www.hjenglish.com/" >大耳英语</a></li>
-    <li><a href="http://blog.sina.com.cn/kaifulee" title="学习，工作，成长" target=_blank>开复博客</a>
-   <a href="http://www.freerice.com/index.php" title="背单词，捐大米" target=_blank>单词大米</a>
- <a href="http://mazhuang.org/" target=_blank>码志</a></li>
-   <li><a href="http://www.speak2me.cn/" title="speak english with Lucy" target=_blank>Speak2me</a>
- <a href="http://www.eslpod.com/" title="English as a Second Language Podcast" target=_blank> ESLpod</a>
-<a href="http://www.lang-8.com/" title="learn a language from native speakers" target=_blank> Lang-8</a></li>
+    <li><a href="http://blog.sina.com.cn/kaifulee" title="学习，工作，成长">开复博客</a>
+   <a href="http://www.freerice.com/index.php" title="背单词，捐大米">单词大米</a>
+ <a href="http://mazhuang.org/">码志</a></li>
+   <li><a href="http://www.speak2me.cn/" title="speak english with Lucy" >Speak2me</a>
+ <a href="http://www.eslpod.com/" title="English as a Second Language Podcast"> ESLpod</a>
+<a href="http://www.lang-8.com/" title="learn a language from native speakers" > Lang-8</a></li>
 </ul>
