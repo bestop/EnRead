@@ -1,1 +1,45 @@
----layout: postpublished: truetitle: 11 questions may change your lifetags: essay    ---<p> Keep this list handy. Ask yourself thesequestions every day--without fail. And then, based on your answers, takeaction. <br /><br />把这份清单放在手边。每天问问自己下面的问题—— 一定要回答。然后，基于自己的回答，采取行动。 <br /><br />1. Who would cry the most at my funeral? <br /><br />在我的葬礼上谁会哭得最凶？ <br /><br />Those are people who love you unconditionally.Start returning the feeling. <br /><br />有些人无条件地爱你。开始回报这些感情吧。 <br /><br />2. Do I spend enough time with the people whowould cry the most at my funeral? <br /><br />我有没有和那些会在我葬礼上哭得最凶的人度过足够多的时间？ <br /><br />Probably not. Even though those are the peoplewho see the good in you, and make you feel good about yourself. <br /><br />也许没有。即使他们是那些看到你优点的人，让你感觉良好的人。 <br /><br />3. Who would I want to cry the most at myfuneral? <br /><br />我会在谁的葬礼上哭得最凶？ <br /><br />Chances are those are the people you neglect themost. You care about them but you're taking them for granted. <br /><br />很有可能是那些最被你忽视的人。你关心他们，但是你总是把他们对你的感情当做理所当然。 <br /><br />Stop taking them for granted. <br /><br />开始珍惜他们吧。 <br /><br />4. Am I proud to tell people where I work? <br /><br />我会自豪地告诉别人我在哪里工作吗？ <br /><br />If not, it's time to start looking elsewhere.Titles come and go. Money comes and goes. Pride is forever. <br /><br />如果不是，该开始找工作了。职位来了又走，金钱也来来去去。只有自豪感是永恒的。 <br /><br />5. Is my company a business I would want mychildren to run? <br /><br />我会不会想让孩子来经营公司的业务？ <br /><br />There may be aspects of your business youwouldn't wish on your worst enemy, much less your kids: insufferable customers,unbearable employees, difficult working conditions, uncertain long-termprospects. <br /><br />你的业务中有一些方面你都不希望自己最大的敌人去面对，更不用提自己的孩子了：令人无法忍受的顾客、令人难以忍受的雇员、艰难的工作条件、不确定的长期前景等。 <br /><br />If you would say to your child, "No, Iwouldn't want you to have to deal with that..." why do allow yourself tocontinue to deal with that? <br /><br />如果你会对孩子说，“不， 我不想让你们去处理那些.......”为什么还让自己继续处理呢？ <br /><br />Naturally you want your kids to be happy. Youalso deserve to be happy. List the problems, then fix the problems. <br /><br />当然，你希望你的孩子幸福。但你也要开心。列出问题，然后解决问题。 <br /><br />If you want a better future for your kids, showthem the way by making a better future for yourself. <br /><br />如果你想让孩子有个更好的未来，那你可以让他们看看你是如何让自己的未来更加美好的。 <br /><br />6. Does today feel different than yesterday? <br /><br />今天的感觉是不是和昨天一样？ <br /><br />It should, if only in a very small way.Otherwise you're sitting still. <br /><br />应该只有一小部分相同， 否则你就是停滞不前。 <br /><br />"No" ensures today will be exactly thesame as yesterday. Or maybe worse. <br /><br />说“不”会让今天和昨天一样，也许更糟。 <br /><br />8. Do I spend money instead of time? <br /><br />我是不是更喜欢用金钱代替时间？ <br /><br />Maybe you buy your kids "stuff" becauseyou feel guilty for being away so much, or missing events, or being distractedmost of the time. Maybe you buy your significant other "stuff" whenyou feel guilty about not paying enough attention or showing, by word andaction, that you care. <br /><br />也许你给孩子买“礼物”是因为你感到内疚，你觉得自己总不在他们身边或错过了他们的活动，或和他们在一起的时间大部分都在走神。也许你觉得没有足够重视生命中的另一半，或没有通过言语和行为表达出来对他们的足够重视，因为心存愧意而给对方买东西。 <br /><br />Or maybe you spend money on productivity toolsinstead of putting in the time to change inefficient work habits. Or maybe youbuy expensive fitness equipment and trendy workout gear instead of just suckingit up and working out more. <br /><br />也许你花钱买提高效率的工具，而不是花时间改变低效的工作习惯；也许你宁愿买昂贵的健身设备和时尚的运动装备，而不愿认真去锻炼身体。 <br /><br />Money never produces the same results as time.Expensive clothes can't get you in shape; productivity apps can't make you moreefficient; a new tablet can't transform your business life. <br /><br />金钱永远换不来时间的效果。昂贵的衣服不能让你有好的体型；提高生产力效率的工具不会让你变得高效；新的平板电脑不会改变你的商务生活。 <br /><br />And don't forget: Your kids will soon forget thevideo game you bought them but they'll never forget the afternoon you spenttogether. <br /><br />另外不要忘记：你的孩子会很快忘记你买给他们的电子游戏，但他们不会忘记你和他们一起度过的美好时光。 <br /><br />"I'm an inventor." "I'm aspeaker." "I'm a writer." <br /><br />“我是名发明家”。“我是名演讲家。”“我是名作家。” <br /><br />You're in a box. <br /><br />你的思维受到了限制。 <br /><br />Start defining yourself as a noun and you startto feel like you've arrived (even when you haven't). Slowly your focus shiftsto "being" rather than doing, to maintaining a sense of self ratherthan striving to continually improve specific skills. <br /><br />开始用名词描述自己，你会觉得自己已经到达了那个水平。 慢慢地你的注意力会转移到“是”上而不是做， 维持自我感觉而不是努力继续提高职位技能。 <br /><br />And you slowly close yourself off to otheractivities, other ventures, and other possibilities. <br /><br />你会慢慢地不去参加其他活动，不去冒险，不去考虑其他可能性。 <br /><br />Don't define yourself by what you do. Never letyourself be a noun. Be a person who does lots of verbs--and is always open tomore. <br /><br />不要通过职业来定义自己。不要把自己描述成名词。做一个可以用很多动词描述的人——总是准备接纳更多。 <br /><br />10. Do I make people feel good about themselves? <br /><br />我是不是让人感觉良好？ <br /><br />Unexpected praise, like the gift given"just because, " makes a huge impact. <br /><br />意料之外的赞美，就像是“只是因为...”而送出去的礼物，会产生巨大的影响。 <br /><br />Every day, people around you do good things.Praise at least one of them, sincerely and specifically. They'll feel great.You'll feel great. <br /><br />每天，你身边的人都在做一些好事。至少表扬他们中的一位，表扬时要真诚而具体。他们会感觉很棒，而你也会感觉不错。 <br /><br />11. Do I scare myself? <br /><br />我有没有吓到过自己？ <br /><br />If not, you should. <br /><br />如果没有，你该试试。 <br /><br />Don't scare yourself with fear of the future, orthe economy, or injury or death, but with things you decide to do that push,stretch, challenge, and leave you excited and thrilled and relieved in an"Oh my gosh I can't believe I did that!" way. <br /><br />不要用对未来或经济、受伤或死亡的恐惧来吓自己，而是用你决定做的事情，你面临的挑战来督促自己，让自己兴奋、激动，并用“天哪！不敢相信我竟然做到了！”这样的方式来放松自己。 <br /><br />We all have fears. What matters is what we dowhen we're hesitant or nervous or afraid. When we turn away, we die a littleinside; when we face a fear and do what we really want to do, we feel trulyalive. <br /><br />我们都心存恐惧。重要的是当我们犹豫、紧张、害怕时我们做了什么。当我们扭头走开时，我们的内心在一点点死去；当我们面临恐惧做我们真正想做的事情时， 我们会觉得自己真正地活着。 <br /><br />Are you living... or really living? You only getone chance. Make sure you live.<br /><br />你是活着......还是在真正地活着？你只有一次机会。确保自己是在活着。</
+---
+layout: post
+published: true
+title: When they go low, we go high
+tags: essay    
+---
+
+Here
+are some phrases I’d be cool with never encountering again. “Shuts down.”
+“Destroys.” “Drags.” “Eviscerates.” So much yelling out there. So. Much.
+Booing. Aren’t you tired of fights and insults, too? If you are, then no doubt
+you too took in Michelle Obama’s Monday night speech at the Democratic National
+Convention as a healing balm on a nation suffering from wide-scale sick burns.
+
+In a speech that was to political rhetoric what Beyoncé is to everything else, the First Lady eloquently
+expressed her endorsement for “our friend Hillary Clinton” and laid out the
+legacy of her husband’s administration. Along the way, she also articulated
+what it means to do the tough work of being the bigger person.
+
+She said it, quite clearly, to the Trump supporters, and she said it to the
+Bernie-or-Busters. She revealed that she has to urge her daughters “to ignore
+those who question their father’s citizenship or faith.” She talked about Mrs.
+Clinton, noting how “When she didn’t win the nomination eight years ago, she
+didn’t get angry or disillusioned…. There were plenty of moments when Hillary
+could have decided that this work was too hard, that the price of public
+service was too high, that she was tired of being picked apart for how she
+looks or how she talks or even how she laughs. But here’s the thing. What I
+admire most about Hillary is that she never buckles under pressure.”
+
+And most pointedly, in a message that ought to be familiar to anyone who’s ever
+been or had a loving parent, she spoke of how she and Barack tell their
+daughters, “When someone is cruel or acts like a bully, you don’t stoop to
+their level. No, our motto is, when they go
+low, we go high.”
+
+The high road often feels like the world’s roughest and least well-trafficked one.
+It also, it must be said, often feels like one that women and minorities are
+expected to travel far more than others. Watching Mrs. Obama Monday night, I
+was reminded of Jesse Williams’ BET Humanitarian Award speech last month, when
+he pointed out that “The burden of the brutalized is not to comfort the bystander. That’s not
+our job.” But what Michelle Obama was speaking to was the difficult,
+important, invisible work of not escalating the fear and divisiveness, of not
+becoming the things we despise. And you don’t have to be running for President
+of the United States of America to take that message to heart.
+
