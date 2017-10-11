@@ -20,7 +20,7 @@ Know it will pass,
 And strength you will gain.    
 
 
-####English Reader - Share pure English with you!
+####English Reader - Share pure English with you!       
 English Reader    <http://www.pop925.net>    
 Weibo    <http://weibo.com/englishreader>    
 Douban Team    <http://www.douban.com/group/EnglishReader/>   
