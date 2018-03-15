@@ -7,7 +7,7 @@ permalink: /links/
 ---
 
 <ul>
-<li><a href="http://pop925.net">英语文摘</a> 
+<li><a href="http://e.hijoe.net">英语文摘</a> 
   <a href="http://www.douban.com/group/EnglishReader/">豆瓣小组</a>
    <a href="http://english.cri.cn/easyfm/" title="EASY FM,we are the difference.">轻松调频</a></li>
       <li><a href="http://www.hjenglish.com/" >沪江英语</a>
