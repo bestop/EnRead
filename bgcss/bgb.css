@@ -271,7 +271,7 @@ h2, h3 {
 .entry-body, .comment-body, .trackback-body {
 	width: 100%;
         max-width: 650px;
-	margin: 25px 0 20px 0;
+	margin: 25px 0 15px 0;
 	text-align:justify;
 	}
 
