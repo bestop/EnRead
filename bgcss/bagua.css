@@ -231,7 +231,7 @@ margin:0pt 0pt 15px;
 color:$enlacecolor;
 }
 .post p a:hover, .post ul a:hover, .post ol a:hover {
-text-decoration:underline;
+text-decoration:none;
 }
 
 .post blockquote {
