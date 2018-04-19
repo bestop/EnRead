@@ -1,18 +1,14 @@
 /*
-
 /* **************************
 Plantilla adaptada a Blogger por Blogandweb
 Diseño original por The Undersigned.
-
 Encuentra esta y más plantillas en:
 http://blogandweb.com/
 http://btemplates.com
-
 Recuerda que esta plantilla es gratuita y esta 
 bajo una licencia Creative Commons Atribution.
 Puedes usarla para fines personales o comerciales 
 pero NO REMOVER LOS CREDITOS
-
 Una bonita forma de agradecer es dando un link a BlogandWeb.
 ***************************** */
 
@@ -24,9 +20,9 @@ Una bonita forma de agradecer es dando un link a BlogandWeb.
    <Variable name="textocolor" description="Color general del texto"
              type="color" default="#333333" value="#333333">
    <Variable name="enlacecolor" description="Color de los enlaces (links)"
-             type="color" default="#73A533" value="#73A533">
+             type="color" default="#0092C8" value="#0092C8">
    <Variable name="colortituloblog" description="Color del título del blog"
-             type="color" default="#73A533" value="#73A533">
+             type="color" default="#0092C8" value="#0092C8">
    <Variable name="colortituloentrada" description="Color del título de las entradas"
              type="color" default="#0092C8" value="#0092C8">
    <Variable name="colortituloslateral" description="Color de los titulos en la barra lateral"
@@ -49,12 +45,13 @@ width:750px;
 body {
 background-color:$bgcolor;
 color:$textocolor;
-font-family:"Trebuchet MS",sans-serif;
-font-size:11px;
+font-family: Helvetica, Arial, sans-serif;
+text-rendering: optimizeLegibility;
+font-size:12px;
 margin:0pt;
 }
 a:link, a:visited {
-color:#73A533;
+color:#0092C8;
 text-decoration:none;
 }
 a:hover {
@@ -118,10 +115,10 @@ margin:0pt 0pt 0pt 5px;
 padding:0pt;
 }
 #topmenu ul li a:link, #topmenu ul li a:visited {
-border-bottom:2px solid #73A533;
+border-bottom:2px solid #0092C8;
 display:block;
-font-size:11px;
-line-height:11px;
+font-size:12px;
+line-height:12px;
 margin:0pt 5px 0pt 0pt;
 padding:5px 15px 2px 5px;
 text-transform:uppercase;
@@ -187,7 +184,7 @@ text-indent:-5px;
 color:$;
 }
 .post a:hover {
-color:#73A533;
+color:#0092C8;
 text-decoration:none;
 }
 
@@ -222,7 +219,7 @@ text-transform:uppercase;
 color:#AAAAAA;
 }
 .post-footer a:hover {
-color:#73A533;
+color:#0092C8;
 text-decoration:none;
 }
 
@@ -238,8 +235,8 @@ text-decoration:underline;
 }
 
 .post blockquote {
-border-bottom:1px solid #73A533;
-border-top:1px solid #73A533;
+border-bottom:1px solid #0092C8;
+border-top:1px solid #0092C8;
 margin:0pt 0pt 15px 20px;
 padding:5px;
 }
@@ -274,7 +271,7 @@ margin:0pt 0pt 2px;
 color:#333333;
 }
 #sidebar-wrapper a:hover {
-color:#73A533;
+color:#0092C8;
 text-decoration:none;
 }
 #sidebar-wrapper ul li {
@@ -285,7 +282,7 @@ margin-bottom:5px;
 }
 
 .post-body ul li:before, #sidebar-wrapper ul li:before {
-color:#73A533;
+color:#0092C8;
 content:"> ";
 }
 
@@ -316,6 +313,6 @@ text-transform:uppercase;
 color:#AAAAAA;
 }
 #footer-wrapper a:hover {
-color:#73A533;
+color:#0092C8;
 text-decoration:none;
 }
