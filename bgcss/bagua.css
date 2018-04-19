@@ -47,7 +47,7 @@ background-color:$bgcolor;
 color:$textocolor;
 font-family: Helvetica, Arial, sans-serif;
 text-rendering: optimizeLegibility;
-font-size:12px;
+font-size:14px;
 margin:0pt;
 }
 a:link, a:visited {
