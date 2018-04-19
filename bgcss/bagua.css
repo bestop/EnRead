@@ -47,7 +47,7 @@ background-color:$bgcolor;
 color:$textocolor;
 font-family: Helvetica, Arial, sans-serif;
 text-rendering: optimizeLegibility;
-font-size:14px;
+font-size:12px;
 margin:0pt;
 }
 a:link, a:visited {
@@ -117,8 +117,8 @@ padding:0pt;
 #topmenu ul li a:link, #topmenu ul li a:visited {
 border-bottom:2px solid #0092C8;
 display:block;
-font-size:14px;
-line-height:14px;
+font-size:12px;
+line-height:12px;
 margin:0pt 5px 0pt 0pt;
 padding:5px 15px 2px 5px;
 text-transform:uppercase;
