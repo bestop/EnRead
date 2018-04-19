@@ -55,7 +55,7 @@ color:#0092C8;
 text-decoration:none;
 }
 a:hover {
-text-decoration:underline;
+text-decoration:none;
 }
 * {
 margin:0pt;
@@ -117,8 +117,8 @@ padding:0pt;
 #topmenu ul li a:link, #topmenu ul li a:visited {
 border-bottom:2px solid #0092C8;
 display:block;
-font-size:12px;
-line-height:12px;
+font-size:11px;
+line-height:11px;
 margin:0pt 5px 0pt 0pt;
 padding:5px 15px 2px 5px;
 text-transform:uppercase;
