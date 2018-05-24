@@ -192,7 +192,7 @@ text-decoration:none;
 color:$colortituloentrada;
 font-size:20px;
 font-weight:normal;
-line-height:50px;
+line-height:20px;
 margin:0pt 0pt 2px;
 }
 
@@ -202,7 +202,7 @@ margin:0pt 0pt 2px;
 .date-header {
 color:#CCCCCC;
 font-size:10px;
-line-height:10px;
+line-height:20px;
 margin:0pt 0pt 5px;
 text-transform:uppercase;
 }
