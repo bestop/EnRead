@@ -202,7 +202,7 @@ margin:0pt 0pt 2px;
 .date-header {
 color:#CCCCCC;
 font-size:10px;
-line-height:20px;
+line-height:10px;
 margin:0pt 0pt 5px;
 text-transform:uppercase;
 }
@@ -224,7 +224,7 @@ text-decoration:none;
 }
 
 .post p {
-line-height:15px;
+line-height:30px;
 margin:0pt 0pt 15px;
 }
 .post p a:link, .post p a:visited, .post ul a:link, .post ol a:link, .post ul a:visited, .post ol a:visited {
