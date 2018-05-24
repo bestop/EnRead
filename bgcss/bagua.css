@@ -76,7 +76,7 @@ color:$colortituloblog;
 float:right;
 font-size:30px;
 font-weight:normal;
-line-height:50px;
+line-height:22px;
 margin:38px 5px 0pt 0pt;
 text-align:right;
 width:340px;
@@ -192,7 +192,7 @@ text-decoration:none;
 color:$colortituloentrada;
 font-size:20px;
 font-weight:normal;
-line-height:20px;
+line-height:50px;
 margin:0pt 0pt 2px;
 }
 
