@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: https://e.hijoe.net
+url: http://e.hijoe.net
 date_format: "ordinal"
 title: English Reader
 author: EnReader 
