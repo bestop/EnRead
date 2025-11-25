@@ -19,7 +19,7 @@ email:
 markdown: kramdown
 kramdown:
    input: GFM
-paginate: 9
+paginate: 10
 permalink: /:year/:month/:day/:title/
 gems:
     - jekyll-paginate
@@ -36,6 +36,7 @@ collections:
 # ---------------- #
 duoshuo_short_name: enread
 changyan: false
+
 
 
 
